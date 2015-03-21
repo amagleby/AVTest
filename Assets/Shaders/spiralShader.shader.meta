@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 623b63522b19a7d45b952c4f500616f2
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: b5094cfaa161044468260e19890925e3, type: 3}
+  - _BumpTex: {instanceID: 0}
+  - _ScrollTex: {instanceID: 0}
+  - _ScrollMask: {instanceID: 0}
+  - _SliceGuide: {instanceID: 0}
+  userData: 
